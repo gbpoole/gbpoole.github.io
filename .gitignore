@@ -1,0 +1,7 @@
+# Some annoying Apple stuff
+.DS_Store
+*.dSYM
+
+# Editor stuff
+*.*.swp
+.idea
